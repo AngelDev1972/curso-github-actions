@@ -23,7 +23,7 @@ on:
         - JavaScript
         - Go
       nombre:
-        description: 'Tu nombre'
+        description: 'Angel'
         required: true
         default: Juan
         type: string
